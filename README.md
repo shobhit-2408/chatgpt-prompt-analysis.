@@ -20,9 +20,8 @@ This project analyzes a large dataset of GPT-generated responses to understand:
 ## 🌐 Live Dashboard
 
 🚀 **View the deployed app here:**
-👉 https://your-app.streamlit.app
+👉 https://chatgpt-prompt-analysis.streamlit.app/
 
-*(Replace with your actual deployed link)*
 
 ---
 
@@ -138,7 +137,7 @@ streamlit run app.py
 ## 👨‍💻 Author
 
 **Shobhit Sharma**
-Aspiring Data Analyst
+
 
 ---
 

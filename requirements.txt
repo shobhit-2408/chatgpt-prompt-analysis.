@@ -1,0 +1,9 @@
+streamlit
+pandas
+plotly
+numpy
+wordcloud
+matplotlib
+textstat
+datasets
+scikit-learn

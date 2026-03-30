@@ -7,3 +7,4 @@ matplotlib
 textstat
 datasets
 scikit-learn
+statsmodels
